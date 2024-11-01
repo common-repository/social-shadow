@@ -1,0 +1,24 @@
+.em_bed {
+    height:auto;
+    max-width: 100%;
+    padding: 10px;
+    margin: 5px;
+    border-radius:5px;
+    box-shadow: 0.1px 0.1px 0.1px 0.1px #888888;
+    -webkit-box-shadow: 0.1px 0.1px 0.1px 0.1px #888888;
+    -moz-box-shadow: 0.1px 0.1px 0.1px 0.1px #888888;
+}
+
+
+.vid_bed {
+    height:auto;
+    max-width:100%;
+    max-width: 100%;
+    padding: 10px;
+    margin: 5px;
+    border-radius:5px;
+    box-shadow: 0.1px 0.1px 0.1px 0.1px #888888;
+    -webkit-box-shadow: 0.1px 0.1px 0.1px 0.1px #888888;
+    -moz-box-shadow: 0.1px 0.1px 0.1px 0.1px #888888;
+}
+

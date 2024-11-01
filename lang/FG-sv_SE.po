@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Grabber\n"
+"POT-Creation-Date: 2016-08-05 03:34+0200\n"
+"PO-Revision-Date: 2016-08-05 03:35+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: fg.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/init.php:58
+msgid "You are not allowed to be on this page"
+msgstr "Det är inte tillåtet att besöka den här delen av webplatsen"
+
+#: includes/admin/menus.php:33
+msgid "Social shadow settings"
+msgstr "Inställningar för Social shadow "
+
+#: includes/admin/menus.php:69
+msgid "Facebook app config"
+msgstr "Inställningar för Facebook applikation"
+
+#: includes/admin/menus.php:73
+msgid "App id"
+msgstr "Applikations-ID"
+
+#: includes/admin/menus.php:78
+msgid "App secret"
+msgstr "Applikationshemlighet"
+
+#: includes/admin/menus.php:83
+msgid "Page id"
+msgstr "Sid-id"
+
+#: includes/admin/menus.php:88
+msgid "Thumbnails"
+msgstr "Miniatyrer"
+
+#: includes/admin/menus.php:91
+msgid ""
+"Let the plugin set the posts thumbnails?(requires a theme that supports "
+"thumbnails)"
+msgstr ""
+"Låt verktyget ställa in inläggsminiatyrer? (Kräver ett tema som stöder "
+"miniatyrer)"
+
+#: includes/admin/menus.php:97
+msgid "Content"
+msgstr "Innehåll"
+
+#: includes/admin/menus.php:100
+msgid "Get post video content, if it exists?"
+msgstr "Hämta inläggets video innehåll om det existerar?"
+
+#: includes/admin/menus.php:105
+msgid "Get post embedded link, if it exists?"
+msgstr "Hämtade inläggets inbäddade länk om den existerar? "
+
+#: includes/admin/menus.php:114
+msgid "Update interval in min.(min 30 min)"
+msgstr "Uppdateringsintervall, minst 30 [min]"
+
+#: includes/admin/menus.php:119
+msgid "The number of posts to fetch (default the latest post) max 35"
+msgstr ""
+"Anal inlägg att hämta per uppdatering (standard det senaste inlägget) max 35"
+
+#: includes/admin/menus.php:123
+msgid "The plugin must be restarted for the interval change to take effect"
+msgstr "Tilläget måste startas om för att intervall inställningarna ska gälla"
+
+#: includes/admin/menus.php:124
+msgid ""
+"Don't abort the saving process, if you do. The fetched data will be "
+"corrupted!"
+msgstr ""
+"Avbryt aldrig updateringsprocessen, om du gör det. Det hämtade datat kommer "
+"att vara korrupt."
+
+#: includes/admin/menus.php:133
+msgid "Update settings"
+msgstr "Uppdatera inställningarna "
+
+#: includes/facebook_data.php:28
+msgid "Error app-id, app-secret or page id is not valid"
+msgstr ""
+"fel! applikations-id, applikationshemlighet eller sid-id är inte korrekt"
+
+#: includes/facebook_data.php:45
+msgid "Error the facebook page does not contain that much posts: "
+msgstr "Fel facebook-sidan innehåller inte så många inlägg: "
+
+#. Plugin Name of the plugin/theme
+msgid "Social Shadow"
+msgstr "Social Shadow"
+
+#. Description of the plugin/theme
+msgid ""
+"A simple plugin that pulls information from a general facebook feed and "
+"creates a post of every feed."
+msgstr ""
+"Ett enkelt tillägg som hämtar information från en allmän tillgängligt "
+"facebook sida, för att därefter spara datat som vanliga inlägg. "
+
+#. Author of the plugin/theme
+msgid "compemperor"
+msgstr "compemperor"
+
+#~ msgid "Error accessToken or page id is not valid"
+#~ msgstr "Fel det angivna AccessToken eller sid-id är inte giltig"
+
+#~ msgid "Facebook page"
+#~ msgstr "Facebook sida"
+
+#~ msgid "AccessToken"
+#~ msgstr "AccessToken"
+
+#~ msgid "Facebook grabber settings"
+#~ msgstr "Inställningar för facebook grabber"
+
+#~ msgid "Facebook Grabber"
+#~ msgstr "Facebook Grabber"
+
+#~ msgid "The number of posts to fetch (default the latest post)"
+#~ msgstr "Antal inlägg att hämta (standard bara det senaste inlägget) "
+
+#~ msgid ""
+#~ "A simple plugin that pulls information from a facebook feed and creates a "
+#~ "post of every feed."
+#~ msgstr ""
+#~ "Ett enkelt tillägg som hämtar information från en allmän tillgängling "
+#~ "facebook-sida, för att därefter skapa ett enskilt inlägg för varje inlägg "
+#~ "det hämtar från facebook-sidan. "
+
+#~ msgid "Error the facebook page does not contain "
+#~ msgstr "Fel det angivna facebook sidan innehåller inte"
